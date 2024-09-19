@@ -1,0 +1,7 @@
+,customer_id,age,gender,location,join_date,loyalty_score,preferred_categories,average_purchase_value,total_purchases,last_purchase_date
+0,1001,28,Female,New York,2019-06-15,75,"['Electronics', 'Books']",150.75,25,2021-08-10
+1,1002,35,Male,Los Angeles,2018-03-22,60,"['Fashion', 'Sports']",85.5,40,2021-09-05
+2,1003,42,Female,Chicago,2020-11-08,50,['Home Appliances'],200.0,15,2021-07-20
+3,1004,23,Male,Houston,2021-02-14,80,"['Electronics', 'Sports']",120.3,10,2021-08-25
+4,1005,30,Female,Phoenix,2017-07-30,90,"['Books', 'Fashion']",75.0,60,2021-09-15
+5,1006,37,Male,Philadelphia,2019-12-05,65,"['Automotive', 'Electronics']",220.5,35,2021-08-18

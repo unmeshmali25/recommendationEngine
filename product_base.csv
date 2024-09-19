@@ -1,0 +1,11 @@
+,product_id,category,price,brand,rating,num_reviews,features,availability,release_date
+0,101,Electronics,299.99,BrandA,4.5,150,Color:Black;Size:Medium,In Stock,2020-01-15
+1,102,Electronics,199.99,BrandB,4.0,85,Color:Silver;Size:Small,Out of Stock,2019-11-20
+2,103,Home Appliances,99.99,BrandC,3.8,40,Color:White;Power:1500W,In Stock,2021-05-10
+3,104,Books,15.99,BrandD,4.7,200,Genre:Fiction;Pages:350,In Stock,2018-08-05
+4,105,Fashion,49.99,BrandE,4.2,60,Color:Red;Size:L,In Stock,2020-12-25
+5,106,Electronics,399.99,BrandA,4.8,220,Color:Black;Size:Large,In Stock,2019-03-30
+6,107,Sports,89.99,BrandF,4.0,75,Type:Outdoor;Size:Standard,Out of Stock,2021-06-15
+7,108,Home Appliances,129.99,BrandC,3.9,50,Color:Silver;Power:2000W,In Stock,2020-10-22
+8,109,Books,9.99,BrandG,4.1,120,Genre:Non-fiction;Pages:250,In Stock,2017-12-01
+9,110,Fashion,29.99,BrandH,3.5,30,Color:Blue;Size:M,In Stock,2021-02-14
